@@ -11,6 +11,10 @@ hr {
     display: none;
 }
 
+.rodapé__titulo:hover {
+    color (var(--azul))
+}
+
 
 @media screen and (min-width: 1024px) {
     .rodapé {
